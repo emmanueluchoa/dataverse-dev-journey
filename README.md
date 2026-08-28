@@ -40,7 +40,11 @@ dataverse-dev-journey/
 
 - **DDD #01:** [Accelerate Dynamics 365: How Promise.all eliminates front-end bottlenecks](artigos/dynamics-dev-drops/ddd-01-promisse-all-performance-frontent.md) *(JavaScript / Performance / Client-Side)*
 
-*(Coming soon: new B2B and DDP articles!)*
+### 💊 Dynamics Dev Pill (`DDP`)
+
+- **DDP Guide:** [Plugin Development Guide for Dynamics 365](learning/guia-desenvolvimento-plugins-dynamics365.md) *(C# / Architecture / Best Practices / Security)*
+
+*(Coming soon: new B2B articles!)*
 
 ---
 
