@@ -1,3 +1,5 @@
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/d6c11385-1843-44f1-989f-f87168db98aa" />
+
 # Accelerate Dynamics 365: How Promise.all eliminates front-end bottlenecks
 
 > **Dynamics Dev Drops** — a content series with practical Dynamics 365 development tips
