@@ -10,11 +10,11 @@ The goal of this project is to guide developers from fundamental concepts to adv
 
 To cover everything from the basics to the most complex project scenarios, the content is divided into three main pillars:
 
-| Banner | Pillar | Acronym | Purpose and Focus |
-| :---: | :--- | :---: | :--- |
-| <img src="https://raw.githubusercontent.com/emmanueluchoa/dataverse-dev-journey/main/assets/images/b2b-banner.png" width="200"/> | **Back to Basics** | `B2B` | **Fundamentals and Theory:** Focused on leveling conceptual knowledge. Explains the "why," the architecture behind the data, modeling, security, and engineering best practices. |
-| <img src="https://raw.githubusercontent.com/emmanueluchoa/dataverse-dev-journey/main/assets/images/ddd-banner.png" width="200"/> | **Dynamics Dev Drops** | `DDD` | **Quick Tips and Productivity:** Insights, code snippets, performance tricks, and practical shortcuts for day-to-day development. |
-| <img src="https://raw.githubusercontent.com/emmanueluchoa/dataverse-dev-journey/main/assets/images/ddp-banner.png" width="200"/> | **Dynamics Dev Pill** | `DDP` | **Deep Content and Architecture:** Step-by-step guides, detailed articles, explanatory carousels, and real-world problem solving in complex projects. |
+| Pillar | Acronym | Purpose and Focus |
+| :--- | :---: | :--- |
+| **Back to Basics** | `B2B` | **Fundamentals and Theory:** Focused on leveling conceptual knowledge. Explains the "why," the architecture behind the data, modeling, security, and engineering best practices. |
+| **Dynamics Dev Drops** | `DDD` | **Quick Tips and Productivity:** Insights, code snippets, performance tricks, and practical shortcuts for day-to-day development. |
+| **Dynamics Dev Pill** | `DDP` | **Deep Content and Architecture:** Step-by-step guides, detailed articles, explanatory carousels, and real-world problem solving in complex projects. |
 
 ---
 
