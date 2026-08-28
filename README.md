@@ -24,7 +24,7 @@ The repository is organized modularly to facilitate consultation and learning:
 
 ```text
 dataverse-dev-journey/
-├── artigos/
+├── articles/
 │   ├── back-to-basics/       # Fundamentals and concepts articles (B2B)
 │   ├── dynamics-dev-drops/   # Quick tips and code snippets (DDD)
 │   └── dynamics-dev-pill/    # Deep articles and architecture guides (DDP)
@@ -38,7 +38,7 @@ dataverse-dev-journey/
 
 ### 💧 Dynamics Dev Drops (`DDD`)
 
-- **DDD #01:** [Accelerate Dynamics 365: How Promise.all eliminates front-end bottlenecks](artigos/dynamics-dev-drops/ddd-01-promisse-all-performance-frontent.md) *(JavaScript / Performance / Client-Side)*
+- **DDD #01:** [Accelerate Dynamics 365: How Promise.all eliminates front-end bottlenecks](articles/dynamics-dev-drops/ddd-01-promisse-all-performance-frontent.md) *(JavaScript / Performance / Client-Side)*
 
 ### 💊 Dynamics Dev Pill (`DDP`)
 
